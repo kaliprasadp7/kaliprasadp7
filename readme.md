@@ -1,63 +1,39 @@
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Kali Prasad Panda</h1>
 
-My name is Kali Prasad Panda and I'm a software developer passionate about building innovative solutions. Here you will find some of my projects that showcase my skills and expertise.
+<h3 align="center">Frontend developer who aims to write quality code</h3>
 
-- 👨‍💻 All of my projects are available at &nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/kaliprasadp7?tab=repositories)
-
-<hr>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align=center>
+  <a href="https://www.linkedin.com/in/kaliprasadp7/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <br><br>
+ <p><img src="https://komarev.com/ghpvc/?username=kaliprasadp7" alt="kaliprasadp7" /></p>
 </div>
+
+- 👨‍💻 I am a frontend developer with focus on web fundamentals. Now I'm learning FullStack Web development.
+
+- 🧭 I love exploring and working both in frontend and backend.
+
+- 📫 The best way to reach me over is [Linkedin](https://www.linkedin.com/in/kali-prasad-panda). You can also send me a mail to kaliprasadp7@gmail.com.
+
+- ⚡ Checkout my [LeetCode](https://leetcode.com/kaliprasadp7/) profile
 
 <br>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kaliprasadp7/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/arnav1672/"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://stackoverflow.com/users/20884535/rahul-sharma"><img src="https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
-</div>
-
-<br>
-
-<div id="badges" align="center">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" alt="angular" width="40" height="40"/>
+<p align="center">
   
-  [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/yourusername/profile)](https://auth.geeksforgeeks.org/user/kaliprasadp7/profile)
-  [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/yourusername)](https://www.hackerrank.com/kaliprasadp7)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/yourusername/)](https://leetcode.com/kaliprasadp7/)
+<br>
 
- </div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kaliprasadp7&color=brightgreen)
-
-</div>
-
-<hr>
-
-## 🔭 I'm currently working on
-
-- New projects
-- CSS skill
-
-## 🌱 I'm currently learning
-
-- 📱 React JS
-- Styled Components  
-
----
-
-### :fire: My Stats :
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaliprasadp7&show_icons=true&locale=en&layout=compact" alt="kaliprasadp7"/>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaliprasadp7&show_icons=true&locale=en" alt="kaliprasadp7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaliprasadp7&" alt="kaliprasadp7" /></p>
+<a href="https://github.com/kaliprasadp7/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliprasadp7&theme=radical&hide=glsl,python" />
+</a>
+<a href="https://github.com/kaliprasadp7/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaliprasadp7&show_icons=true&theme=radical&line_height=27" alt="kaliprasadp7's github stats" />
+</a>
